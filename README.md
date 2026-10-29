@@ -49,7 +49,7 @@ Quien estudia en computador y tablet suele tener que elegir entre un buen editor
 | [08 · Pruebas y aceptación](docs/08-pruebas-y-aceptacion.md) | Comportamientos verificables |
 | [09 · Riesgos y decisiones](docs/09-riesgos-y-decisiones.md) | Compromisos, riesgos y acuerdos pendientes |
 | [10 · Modelo de negocio](docs/10-modelo-de-negocio.md) | Freemium, suscripción y licencia permanente |
-| [11 · Acuerdos con el cliente](docs/12-acuerdos-con-cliente.md) | Estado de respuestas y asuntos por aprobar |
+| [11 · Acuerdos con el cliente](docs/11-acuerdos-con-cliente.md) | Estado de respuestas y asuntos por aprobar |
 
 ## Estado y siguiente hito
 
